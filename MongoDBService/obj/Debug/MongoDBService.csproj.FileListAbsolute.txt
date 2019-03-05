@@ -1,0 +1,17 @@
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDBService.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDBService.pdb
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\DnsClient.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDB.Bson.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDB.Driver.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\System.Buffers.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\DnsClient.xml
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDB.Bson.xml
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDB.Driver.xml
+D:\Projects\MongoDBService\MongoDBService\bin\Debug\MongoDB.Driver.Core.xml
+D:\Projects\MongoDBService\MongoDBService\obj\Debug\MongoDBService.csprojAssemblyReference.cache
+D:\Projects\MongoDBService\MongoDBService\obj\Debug\MongoDBService.csproj.CoreCompileInputs.cache
+D:\Projects\MongoDBService\MongoDBService\obj\Debug\MongoDBService.csproj.CopyComplete
+D:\Projects\MongoDBService\MongoDBService\obj\Debug\MongoDBService.dll
+D:\Projects\MongoDBService\MongoDBService\obj\Debug\MongoDBService.pdb
